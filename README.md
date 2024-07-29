@@ -83,7 +83,7 @@ Thought Stream ensures smooth navigation through these options, guiding users at
 
 <div align="center">
 
-[thought-stream.webm](https://github.com/user-attachments/assets/c2c8d996-e6bc-4635-93b0-441ba4ed3667)
+[thought-stream.webm](https://github.com/user-attachments/assets/8eaec549-ecdc-4159-adcc-f8585d54963b)
 
 </div>
 
